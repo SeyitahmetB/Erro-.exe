@@ -1,1 +1,0 @@
-X=MsgBox("Failed to load ""C:\Windows\System32\config\OSDATA""", 0+16, "Error")
